@@ -1,4 +1,6 @@
-#JavaScript Calculator
+# JavaScript Calculator
+
+
 This repository contains a simple calculator project built using JavaScript, HTML, and CSS. The calculator is designed to be user-friendly and easy to use. It performs basic mathematical operations such as addition, subtraction, multiplication, and division.
 
 Table of Contents
