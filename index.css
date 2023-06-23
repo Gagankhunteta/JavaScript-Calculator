@@ -1,0 +1,41 @@
+input{
+    height: 100px;
+    width: 150px;
+    font-size: 75px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    background-color: #b14a4a;
+    color: #fff;
+    
+
+}
+input:hover{
+    border-style:inset;
+
+}
+
+
+
+form{
+    background-color: rgb(206, 225, 233);
+    width: 615px;
+    margin: auto;
+    margin-top: 6px;
+}
+h1{
+    margin-left: 39%;
+    font-size: 50px;
+    margin-top: 100px;
+    font-style: ital;
+}
+h4{
+    margin-left: 57%;
+   
+    font-size: 20px;
+    margin-top: -10px;
+    font-style: ital;
+}
+/* <!-- Made by Gagan Khunteta --> */
